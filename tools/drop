@@ -3,8 +3,8 @@
 
 import sys, os, subprocess, hashlib, urllib
 
-destination = 'inf.re:~/www/dropbox.inf.re/b/%s'
-webpath     = 'https://d.inf.re/b/%s'
+destination = 'files.of.fuckedup.dog:~/www/files.of.fuckedup.dog/b/%s'
+webpath     = 'https://files.of.fuckedup.dog/%s'
 FIX_PERMISSIONS = True
 
 def usage():
