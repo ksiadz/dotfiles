@@ -3,7 +3,7 @@
 
 import sys, os, subprocess, hashlib, urllib
 
-destination = 'files.of.fuckedup.dog:~/www/files.of.fuckedup.dog/b/%s'
+destination = 'files.of.fuckedup.dog:~/var/www/files.of.fuckedup.dog/%s'
 webpath     = 'https://files.of.fuckedup.dog/%s'
 FIX_PERMISSIONS = True
 
